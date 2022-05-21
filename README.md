@@ -1,4 +1,4 @@
-# latestest-twitter-tweets-
+# latest-twitter-tweets-
 In this project the user will be asked about a key word about which he/she wants the latest tweets.
 
 Then he/she will be asked for number of tweets he want to see on the entered key word. 
